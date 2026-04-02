@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I’m Ujjawal Gupta, a Computer Science student with a strong passion for cybersecurity and software development. I have a solid understanding of the fundamentals of cybersecurity and computer networks, and I am currently expanding my expertise in backend development and advanced security concepts.<br><br>I love coding and solving complex problems—it's what drives me every day. Java is my favorite programming language, and I enjoy building efficient, secure, and well-structured applications. My curiosity about technology constantly motivates me to explore how computer systems work at a deeper level.<br><br>I’m committed to growing as a developer and cybersecurity professional, and I’m always excited to learn, experiment, and take on new challenges.
+Hi, I’m Ujjawal Gupta, a Computer Science student with a deep passion for cybersecurity and cloud technologies. I have a solid understanding of cybersecurity fundamentals and computer networks, and I’m continually expanding my knowledge in advanced security concepts and cloud computing.
+
+I’m driven by a love for coding and problem‑solving, especially when it comes to building secure, efficient solutions and understanding technology at a deeper, system-level perspective. My curiosity pushes me to explore how things work beneath the surface—from infrastructure to security mechanisms—fueling my growth as a cybersecurity and cloud enthusiast.
+
+I’m committed to evolving as a professional in these fields, always eager to learn, experiment, and take on new challenges that help me improve and innovate.
 
 
 # 💻 Tech Stack:
